@@ -1,4 +1,5 @@
 from __future__ import print_function
+pip install mujoco_py
 import numpy as np
 import torch
 import torch.multiprocessing as mp
